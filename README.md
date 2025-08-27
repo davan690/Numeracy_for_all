@@ -42,6 +42,12 @@ This list outlines the jobs needed to integrate all missing information into the
 - Is there going to be a firewall with some content?
 
 * **Task 1: Create 'Numeracy Co-requisite Overview' Section**
+
+The explicit statement that the literacy and numeracy co-requisite standards were created by the Ministry of Education and became a mandatory part of NCEA in 2024.
+The overarching purpose of these changes: to ensure high school students graduate with strong foundations in literacy and numeracy.
+
+Confirmation that students must pass one Numeracy assessment (US32406), along with two literacy assessments, to gain any NCEA qualification (Level 1, 2, or 3) from 2024 onwards.
+
     * State that the literacy and numeracy co-requisite became mandatory in **2024** by the Ministry of Education.
     * Explain its purpose: to ensure students have strong literacy and numeracy foundations.
     * Confirm that passing **US32406** is required for any NCEA qualification (Level 1, 2, or 3).
