@@ -5,9 +5,97 @@ date: "`r Sys.Date()`"
 output: html_document
 ---
 
+# Helpful websites
+
+## Numeracy targeted resources
+
+- [Heathcote college google site](https://sites.google.com/northcote.school.nz/litnum-at-northcote/home?pli=1)
+- [https://education.nzta.govt.nz/teacher-resources/secondary-curriculum-resources/mathematics-and-statistics](https://education.nzta.govt.nz/teacher-resources/secondary-curriculum-resources/mathematics-and-statistics)
+- [NCEA Numeracy Resources](https://www.nzqa.govt.nz/ncea/subjects/numeracy/)
+- [NZQA Numeracy Assessment Resources](https://www.nzqa.govt.nz/ncea/subjects/numeracy/assessment-resources/)
+- [Te Kete Ipurangi (TK I) - Numeracy](https://www.tki.org.nz/teaching-e-learning/subject-resources/numeracy) 
+- [https://www.tki.org.nz/teaching-e-learning/subject-resources/numeracy](https://www.tki.org.nz/teaching-e-learning/subject-resources/numeracy)
+- [https://www.nzmaths.co.nz/](https://www.nzmaths.co.nz/)
+
+## General math resources
+                  
+- [Education Perfect - Numeracy](https://www.educationperfect.com/app/#/student/subject/numeracy)
+- [Khan Academy - Arithmetic](https://www.khanacademy.org/math/arithmetic)
+- [Maths is Fun](https://www.mathsisfun.com/)
+- [NRICH - Mathematics Resources](https://nrich.maths.org/)
+- [Mathigon - The Textbook of the Future](https://mathigon.org/)
+- [Math Playground](https://www.mathplayground.com/)
+- [Cool Math 4 Kids](https://www.coolmath4kids.com/)
+- [IXL - Math Practice](https://www.ixl.com/math/)
+- [Prodigy Math Game](https://www.prodigygame.com/)
+- [Math Games](https://www.mathgames.com/)      
+- [BBC Bitesize - Maths](https://www.bbc.co.uk/bitesize/subjects/z6vg9j6)
+- [Math Antics - YouTube Channel](https://www.youtube.com/user/mathantics)
+- [PatrickJMT - YouTube Channel](https://www.youtube.com/user/patrickJMT)
+- [Numberphile - YouTube Channel](https://www.youtube.com/user/numberphile)
+- [Math with Bad Drawings - YouTube Channel](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg)  
+- [Desmos - Graphing Calculator](https://www.desmos.com/calculator)
+- [GeoGebra - Dynamic Mathematics Software](https://www.geogebra.org/)
+- [Wolfram Alpha - Computational Knowledge Engine](https://www.wolframalpha.com/)
+- [Math Stack Exchange - Q&A Community](https://math.stackexchange.com/)
+- [Reddit - r/learnmath](https://www.reddit.com/r/learnmath/)
+- [Reddit - r/math](https://www.reddit.com/r/math/)
+- [Art of Problem Solving (AoPS)](https://artofproblemsolving.com/)
+- [Brilliant - Interactive Learning](https://brilliant.org/)
+- [Coursera - Math Courses](https://www.coursera.org/browse/math-and-logic)
+- [edX - Math Courses](https://www.edx.org/learn/math)
+- [MIT OpenCourseWare - Mathematics](https://ocw.mit.edu/courses/mathematics/)
+- [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)           
+- [Math is Fun - Math Dictionary](https://www.mathsisfun.com/definitions/)
+- [Wolfram MathWorld](https://mathworld.wolfram.com/)
+- [Purplemath - Algebra Help](https://www.purplemath.com/)
+- [Cool Math - Algebra](https://www.coolmath.com/algebra)
+- [Math Goodies](https://www.mathgoodies.com/)
+- [Math Forum - Ask Dr. Math](http://mathforum.org/dr.math/)
+- [Math Planet - High School Math](https://www.mathplanet.com/)
+- [Math Help - Free Math Resources](https://www.mathhelp.com/)
+- [Math Tutor - Free Math Help](https://www.mathtutor.com/)
+- [Math Worksheets 4 Kids](https://www.mathworksheets4kids.com/)
+- [Kuta Software - Free Math Worksheets](https://www.kutasoftware.com/free.html)
+- [Math-Aids.Com - Free Math Worksheets](https://www.math-aids.com/)
+- [Math Drills - Free Math Worksheets](https://www.math-drills.com/)
+- [Common Core Sheets - Free Math Worksheets](https://www.commoncoresheets.com/)
+- [Math Mammoth - Free Math Worksheets](https://www.mathmammoth.com/worksheets.php)
+- [Math Worksheets Land - Free Math Worksheets](https://www.mathworksheetsland.com/)
+- [Math-Exercises.com - Free Math Worksheets](https://www.math-exercises.com/)
+- [Mathsframe - Free Math Resources](https://mathsframe.co.uk/)
+- [NRICH - Free Math Resources](https://nrich.maths.org/)
+- [MathsBot - Free Math Resources](https://mathsbot.com/)
+- [MathsPad - Free Math Resources](https://www.mathspad.co.uk/)
+- [Maths4Everyone - Free Math Resources](https://www.maths4everyone.com/)
+- [MathsIsFun - Free Math Resources](https://www.mathsisfun.com/)
+- [MathsMadeEasy - Free Math Resources](https://www.mathsmadeeasy.co.uk/)
+- [MathsOnline - Free Math Resources](https://www.mathsonline.com.au/)
+- [MathsWatch - Free Math Resources](https://vle.mathswatch.co.uk/vle/)
+- [Maths4Kids - Free Math Resources](https://www.maths4kids.com/)
+- [Maths4All - Free Math Resources](https://www.maths4all.com/)
+- [Maths4U - Free Math Resources](https://www.maths4u.co.uk/)
+- [Maths4Teachers - Free Math Resources](https://www.maths4teachers.com/)
+- [Maths4Parents - Free Math Resources](https://www.maths4parents.com/)
+- [Maths4Students - Free Math Resources](https://www.maths4students.com/)
+- [Maths4Everyone - Free Math Resources](https://www.maths4everyone.com/)
+- [Maths4Life - Free Math Resources](https://www.maths4life.com/)
+- [Maths4Fun - Free Math Resources](https://www.maths4fun.com/)
+- [Maths4Success - Free Math Resources](https://www.maths4success.com/)
+- [Maths4You - Free Math Resources](https://www.maths4you.co.uk/)
+- [Maths4All - Free Math Resources](https://www.maths4all.com/)
+- [Maths4Everyone - Free Math Resources](https://www.maths4everyone.com/)
+- [Maths4Life - Free Math Resources](https://www.maths4life.com/)
+- [Maths4Fun - Free Math Resources](https://www.maths4fun.com/)
+- [Maths4Success - Free Math Resources](https://www.maths4success.com/)
+
+# Website References
+
 ```{r bibliography, echo=FALSE, results='asis'}
 install.packages("knitr")
 library(knitr)
 knitr::write_bib("ncea_references.bib")
 ```
+
+
 
