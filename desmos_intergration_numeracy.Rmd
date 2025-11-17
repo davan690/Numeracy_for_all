@@ -5,11 +5,14 @@ date: "`r Sys.Date()`"
 output: html_document
 --- 
 
+The added value of using Desmos for learning numeracy is both vital and insightful because it transforms abstract numerical concepts into dynamic, interactive visualisations. Unlike static pen-and-paper exercises, Desmos allows learners to actively manipulate variables and parameters, instantly seeing the graphical consequences. For instance, a student can use a slider to change the slope of a line and intuitively grasp how this value affects its steepness, or explore how changing coefficients in a polynomial function alters its roots and shape. This immediate, visual feedback is profoundly insightful, bridging the gap between symbolic algebraic representation and tangible geometric understanding.
+
 ```{r setup, include=FALSE}     
 library(knitr)
 ```
 
 #### A cool interactive graph
 
-<iframe data-external="1" src="https://www.desmos.com/calculator/8wiixd9ks4?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+This interactive exploration makes learning an active process of discovery rather than a passive one of reception, which is a vital shift for developing deep conceptual fluency and confidence in mathematics.
 
+<iframe data-external="1" src="https://www.desmos.com/calculator/8wiixd9ks4?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
