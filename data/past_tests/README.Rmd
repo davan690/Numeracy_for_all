@@ -1,0 +1,20 @@
+---
+title: "NCEA CAA Level 1 Numeracy Past Tests"
+output: github_document
+---
+
+## Overview
+
+This folder contains past Numeracy assessments for NCEA CAA (Computer Adaptive Assessment) Level 1 in New Zealand.
+
+## Contents
+
+- Past tests from 2023-2025
+- Practice materials and resources
+- Reference documents
+
+## File Naming Convention
+
+Files should be named using the format: `NCEA_Numeracy_L1_YYYY-MM-DD.pdf`
+
+## Rename Downloaded Files
