@@ -18,3 +18,4 @@ This folder contains past Numeracy assessments for NCEA CAA (Computer Adaptive A
 Files should be named using the format: `NCEA_Numeracy_L1_YYYY-MM-DD.pdf`
 
 ## Rename Downloaded Files
+https://github.com/davan690/SC1_1000_Temperature_monitor.git
